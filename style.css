@@ -1,3 +1,8 @@
 div {
   color: red;
 }
+table,thead,tbody,th,td {
+  border: 2px solid black;
+  border-collapse: separate;
+  width: 600px;
+}
